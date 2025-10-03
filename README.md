@@ -1,10 +1,11 @@
 # Walmart_Sales_Analysis
-#💡 Project Overview
+# 💡Project Overview
+
 The Walmart Sales Analysis project was a deep-dive exploration of a real-world sales dataset, primarily leveraging SQL to transform raw data into actionable business intelligence. My core objective was to utilize SQL as a tool for robust data management and extraction, allowing me to identify key sales trends and performance indicators essential for boosting revenue and refining sales strategies.
 
 This project was a crucial learning experience, cementing my ability to use SQL for sophisticated data exploration and business problem-solving from start to finish.
 
-#🛠️ Technical Contributions & Key Learnings
+# 🛠️Technical Contributions & Key Learnings
 1. SQL Mastery and Data Management
 Database Setup: Structured and managed the large Walmart sales dataset efficiently within a SQL environment.
 
@@ -26,7 +27,8 @@ Trend Analysis: Uncovered significant sales trends across different regions, tim
 
 Customer Behavior: Analyzed transactional data to understand underlying customer purchasing behaviors and preferences.
 
-#📈 Impact & Outcomes
+# 📈Impact & Outcomes
+
 This analysis provided the foundation for strategic business decisions by:
 
 Informing Sales Strategies: Providing a clear, data-backed view of where resources should be concentrated (top stores, popular products).
